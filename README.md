@@ -5,7 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [infancetony.cs22@stellamaryscoe.edu.in](mailto:infancetony.cs22@stellamaryscoe.edu.in)
 
 <a href="https://www.github.com/InfanceTony-cs22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/InfanceTony-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/InfanceTony-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=InfanceTony-cs22&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a>
 
 ### Skills
 
