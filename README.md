@@ -40,5 +40,4 @@ src="https://img.shields.io/github/followers/InfanceTony-cs22?logo=github&style=
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
