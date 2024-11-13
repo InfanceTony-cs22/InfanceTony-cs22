@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Infance Tony.E
+Hi !My name is Infance Tony
 ======================================================================================================================================
 
 * 🌍  I'm based in Nagercoil,KaniyaKumari
@@ -11,9 +11,10 @@ src="https://img.shields.io/github/followers/InfanceTony-cs22?logo=github&style=
 </a>
 
 ### 🖥️ Skills:
-<center>
+
 <img src="https://s3.amazonaws.com/media.thecrimson.com/photos/2023/04/04/110319_1362711.gif" alt="Description of the image">
-</center>
+  
+
 
   
 </p>
