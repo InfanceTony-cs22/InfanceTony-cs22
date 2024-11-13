@@ -11,8 +11,9 @@ src="https://img.shields.io/github/followers/InfanceTony-cs22?logo=github&style=
 </a>
 
 ### 🖥️ Skills:
-
+<center>
 <img src="https://s3.amazonaws.com/media.thecrimson.com/photos/2023/04/04/110319_1362711.gif" alt="Description of the image">
+</center>
 
   
 </p>
