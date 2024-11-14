@@ -1,12 +1,12 @@
 <img src="https://i.pinimg.com/originals/8d/af/fc/8daffc84762e918bb7e54ec93bb16f44.gif">
 
 
+* 🌍  I'm based in Kanyakumari
+
 ### My name is Infance Tony
 
-
-
-
 * 🌍  I'm based in Nagercoil,KaniyaKumari
+
 * ✉️  You can contact me at [infancetony.cs22@stellamaryscoe.edu.in](mailto:infancetony.cs22@stellamaryscoe.edu.in)
 
 <a href="https://www.github.com/InfanceTony-cs22" target="_blank" rel="noreferrer"><img
